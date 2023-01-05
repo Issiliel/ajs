@@ -1,0 +1,19 @@
+{
+  "name": "@issiliel/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Issiliel/ajs.git"
+  },
+  "author": "Elena Voronina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Issiliel/ajs/issues"
+  },
+  "homepage": "https://github.com/Issiliel/ajs#readme"
+}
