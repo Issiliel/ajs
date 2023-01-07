@@ -1,5 +1,5 @@
 {
-  "name": "@issiliel/platforms",
+  "name": "@issiliel/ajs",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Issiliel/platforms.git"
+    "url": "git+https://github.com/Issiliel/ajs.git"
   },
   "author": "Elena Voronina",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Issiliel/platforms/issues"
+    "url": "https://github.com/Issiliel/ajs/issues"
   },
-  "homepage": "https://github.com/Issiliel/platforms#readme",
+  "homepage": "https://github.com/Issiliel/ajs#readme",
   "devDependencies": {
     "@babel/cli": "^7.20.7",
     "@babel/core": "^7.20.12",
